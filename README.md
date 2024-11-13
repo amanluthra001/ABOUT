@@ -30,7 +30,7 @@
 ---
 
 ### 📚 Languages I’ve Learned:
-- Python, HTML, CSS, SQL, C++, Data Structures
+- Python, HTML, CSS, SQL, C++, Data Structures, PHP, PLSQL
 
 
 
